@@ -1,20 +1,20 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# To Do List
+# Movie Fight
 
-> Project for organizeing your tasks.
+> Website where you can compare your favorite movies.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./moviefight.png)
 
 ## Built With
 
 - HTML & CSS
 - JavaScript
-- Webpack
+- [OMDb API](https://www.omdbapi.com/)
 
 ## Live Demo
 
-[Live Demo Link](https://shahiernashaat.github.io/to-do-list/)
+[Live Demo Link]( https://wes-isaac.github.io/movieFight/)
 
 
 ## Getting Started
@@ -24,15 +24,14 @@ To get a local copy up and running follow these simple example steps.
 
 - go to the directory that you want to clone the repository in.
 - right click and choose Git Bash here.
-- type "git clone https://github.com/ShahierNashaat/to-do-list.git".
+- type "git clone https://github.com/Wes-Isaac/movieFight.git".
 
 ## Authors
 
-👤 **Shahier Nashaat**
+👤 **Yishak**
 
-- GitHub: [@githubhandle](https://github.com/ShahierNashaat)
-- Twitter: [@twitterhandle](https://twitter.com/ShahierN)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/shahier-nashaat-73519313a/)
+- GitHub: [Yishak ,Wes-Isaac](https://github.com/Wes-Isaac)
+- LinkedIn: [@Yishak](https://www.linkedin.com/in/yishak-wesego-b404851a7/)
 
 ## 🤝 Contributing
 
@@ -46,9 +45,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Colt Steele for his tutorial on JavaScript.
+
 
 ## 📝 License
 
