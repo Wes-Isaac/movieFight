@@ -13,7 +13,7 @@
   },
 
   async fetchData(term) {
-    const response = await axios.get('http://www.omdbapi.com/', {
+    const response = await axios.get('https://www.omdbapi.com/', {
       params: {
         apikey:'bcb089fb',
         s: term
